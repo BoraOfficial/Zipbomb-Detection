@@ -1,5 +1,5 @@
 # Zipbomb-Detection
-Zipbomb malware detection using Python
+Zipbomb malware detection and prevention using Python
 
 # How to use
 
