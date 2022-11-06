@@ -10,7 +10,7 @@ It's pretty simple! Just do the following:
     Create a folder called "data"
   </li>
   <li>
-    Move all suspicious .zip or .gz files in it
+    Move all suspicious <b>.zip</b> or <b>.gz</b> files in it
   </li>
 </ul>
 After that, run the program using this command:
