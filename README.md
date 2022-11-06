@@ -1,6 +1,6 @@
-# Zipbomb-Detection
+# Zipbomb Detection
 ---
-Zipbomb malware detection and prevention using Python
+Zipbomb malware detection and prevention using <a href="https://python.org">Python</a>
 
 ---
 # How to use
