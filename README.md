@@ -1,6 +1,8 @@
 # Zipbomb-Detection
+---
 Zipbomb malware detection and prevention using Python
 
+---
 # How to use
 It's pretty simple! Just do the following:
 <ul>
