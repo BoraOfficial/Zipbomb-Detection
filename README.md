@@ -7,7 +7,7 @@ Zipbomb malware detection and prevention using Python
 It's pretty simple! Just do the following:
 <ul>
   <li>
-    Create a folder called "data"
+    Create a folder called <b>"data"</b>
   </li>
   <li>
     Move all suspicious <b>.zip</b> or <b>.gz</b> files in it
